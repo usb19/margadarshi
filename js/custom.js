@@ -57,6 +57,7 @@
       // else:
 
       images: [
+        "img/mg/marg_ban.jpg",
         "img/mg/bg1.jpg",
         "img/mg/temple5.jpg",
         "img/mg/vasthu.jpg"
